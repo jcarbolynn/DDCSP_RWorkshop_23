@@ -1,4 +1,4 @@
-## DDCSP Coding Workshop (2023)
+## DDCSP R Coding Workshop (2023)
 
 Instructors: Briana Betke, Joelle Carbonell and Kate Jones
 

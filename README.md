@@ -20,7 +20,7 @@ There are no expectations of knowing R before viewing the preworkshop materials.
 All workshop materials are in this github repository in corresponding folders.
 
 | Folder | Description |
-| -------- | ------- |
+| :-------- | :------- |
 | Preworkshop | Contains the resources needed to prepare for the workshop. This includes instructions for installation of R and Rstudio |
 | Workshop | Contains all the code and solutions to challenges for the workshop |
 | Resources | Additional resources to continue learning R beyond this workshop! |

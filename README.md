@@ -9,7 +9,7 @@ Location: Online via Zoom
 
 ## Purpose
 
-This workshop is intended to teach r basics and some visualization with spatial data. There will be preworkshop materials to review before the workshop to ensure that R and Rstudio are properly installed. Please see *insert link for the resources here* for the preworkshop materials. There will be open office hours on Zoom at *TBD* for any questions regarding set up and R coding. For the workshop, will teach a primer on spatial data! We will cover the types of spatial data and how to visualize spatial data.
+This workshop is intended to teach r basics and some visualization with spatial data. There will be preworkshop materials to review before the workshop to ensure that R and Rstudio are properly installed. Please see *insert link for the resources here* for the preworkshop materials. There will be open office hours on Zoom at *TBD* for any questions regarding set up and R coding. For the workshop, we will teach a primer on spatial data! We will cover the types of spatial data and how to visualize spatial data.
 
 ## Coding Requirements
 

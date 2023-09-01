@@ -4,7 +4,7 @@ Instructors: Briana Betke, Joelle Carbonell and Kate Jones
 
 Date: TBD
 
-Location: Online via Zoom
+Location: Online via Zoom/Discord
 
 
 ## Purpose
